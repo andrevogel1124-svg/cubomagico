@@ -1,0 +1,29 @@
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+*.tmp
+*.swp
+
+# Segredos (nunca publique)
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+
+# Java
+*.class
+*.war
+*.ear
+hs_err_pid*
+
+# IDEs
+.idea/
+*.iml
+.vscode/
